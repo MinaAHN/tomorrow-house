@@ -1,6 +1,5 @@
-p {
-    color:red;
-    display:block;
-    margin: 2px;
-    background-color: black;
+@import './base/fonts';
+
+* {
+  font-family: 'Noto Sans KR', sans-serif;
 }
